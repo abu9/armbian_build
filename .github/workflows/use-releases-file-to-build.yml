@@ -26,7 +26,8 @@ on:
         type: choice
         options:
           - panther-x2
-          - s905d_s905l3a-cm311
+          - s905d
+          - s905l3a-cm311
       armbian_kernel:
         description: "Select kernel version."
         required: false
